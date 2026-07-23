@@ -30,7 +30,7 @@ This analysis highlights the stability of employees aged 55+, based on real, pub
 
 | Source | Used for |
 |---|---|
-| [U.S. Bureau of Labor Statistics — Employee Tenure Summary, January 2024](https://www.bls.gov/news.release/tenure.t01.htm) | Median years with employer by age, sex, and education |
+| [U.S. Bureau of Labor Statistics (BLS) — Employee Tenure Summary, January 2024](https://www.bls.gov/news.release/tenure.t01.htm) | Median years with employer by age, sex, and education |
 | [BLS — The Economics Daily, October 2024](https://www.bls.gov/opub/ted/2024/median-tenure-with-current-employer-was-3-9-years-in-january-2024.htm) | Distribution of tenure length by age |
 | [Eurostat — lfsa_egad, Employed persons by job tenure](https://ec.europa.eu/eurostat/databrowser/view/lfsa_egad/default/table) | Czech Republic tenure data by age and sex, 2025 |
 
