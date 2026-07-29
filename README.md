@@ -16,7 +16,7 @@
 This analysis is built primarily on U.S. data (Bureau of Labor Statistics), examining job tenure - how long someone stays with the same employer, not to be confused with academic tenure - across age, education, and sex, and whether employees aged 55+ are meaningfully more stable hires than younger age groups. A secondary comparison was then run against the best available Czech data (Eurostat), though that dataset is considerably less detailed than the U.S. tables.
 
 ➡️ **[Open the notebook with the full analysis](notebooks/employment_stability_of_workers_55plus.ipynb)**
-➡️ **[Open the presentation](presentation/employment_stability_of_workers_55plus.pptx)**
+➡️ **[Open the presentation](presentation/PRESENTATION.md)** (readable on GitHub — [.pptx original](presentation/employment_stability_of_workers_55plus.pptx) also available)
 
 ## Key findings
 
