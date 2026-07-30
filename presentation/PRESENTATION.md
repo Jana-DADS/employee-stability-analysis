@@ -106,6 +106,7 @@ Job tenure differs by sex across every age group: men consistently show longer t
 Across every dataset in this analysis, employees 55+ show the longest tenure — hiring them is a bet on stability, not a risk.
 
 *Jana Dolečková · Data Analyst*
+*+420 734 163 164*
 
 ---
 
